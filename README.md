@@ -268,8 +268,8 @@ This project is for educational purposes.
 ## 📞 Contact
 
 For queries or collaboration:
-👨‍💻 Author
-**Name: Akash Yadav**
+
+- 👨‍💻 Author Name: Akash Yadav
 - GitHub: [@akxyverse](https://github.com/akxyverse)
 - Email: akashyadav110502@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/akash-yadav-122a75288/]
