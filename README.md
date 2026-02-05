@@ -245,23 +245,16 @@ python src/scheduler.py
 
 ---
 
-## 🎯 Future Enhancements
-
-- [ ] Add multiple location support
-- [ ] Implement SMS/Email alert system
-- [ ] Mobile app development
-- [ ] Integration with disaster management systems
-- [ ] Real-time model retraining pipeline
-- [ ] Advanced ML models (LSTM, XGBoost comparison)
-
----
 
 ## 👨‍💻 Author
+**Name: Akash Yadav**
 
-**[Your Name]**
-- Final Year Project
-- Data Analytics Student
-- [LinkedIn](your-linkedin) | [GitHub](your-github)
+## 📞 Contact
+
+For queries or collaboration:
+- Email: akashyadav110502@gmail.com
+- LinkedIn: [Akash Yadav](https://www.linkedin.com/in/akash-yadav-122a75288/)
+- GitHub: [@akxyverse](https://github.com/akxyverse)
 
 ---
 
