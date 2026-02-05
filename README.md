@@ -246,17 +246,9 @@ python src/scheduler.py
 ---
 
 
-## 👨‍💻 Author
-**Name: Akash Yadav**
 
-## 📞 Contact
 
-For queries or collaboration:
-- Email: akashyadav110502@gmail.com
-- LinkedIn: [Akash Yadav](https://www.linkedin.com/in/akash-yadav-122a75288/)
-- GitHub: [@akxyverse](https://github.com/akxyverse)
 
----
 
 ## 📝 License
 
@@ -276,8 +268,11 @@ This project is for educational purposes.
 ## 📞 Contact
 
 For queries or collaboration:
-- Email: your.email@example.com
-- LinkedIn: [Your Profile]
+👨‍💻 Author
+**Name: Akash Yadav**
+- GitHub: [@akxyverse](https://github.com/akxyverse)
+- Email: akashyadav110502@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/akash-yadav-122a75288/]
 
 ---
 
