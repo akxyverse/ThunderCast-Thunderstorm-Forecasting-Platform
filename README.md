@@ -1,4 +1,4 @@
-# ⚡ ThunderCast: Smart Storm Prediction Engine
+# ⚡ThunderCast: Thunderstorm Forecasting Platform
 
 **Real-time Thunderstorm Prediction System using Time-Series Forecasting**
 
