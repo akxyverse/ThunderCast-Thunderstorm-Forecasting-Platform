@@ -1,4 +1,4 @@
-# ⚡ThunderCast: Thunderstorm Forecasting Platform
+# ⚡ThunderCast: Storm Forecasting Platform
 
 **Real-time Thunderstorm Prediction System using Time-Series Forecasting**
 
